@@ -1,0 +1,6 @@
+# filepath: TechSkillsRadar/backend/requirements.txt
+fastapi==0.110.0
+uvicorn==0.29.0
+pandas==2.2.1
+numpy==1.26.4
+python-dotenv==1.0.1
